@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-a983c3735420e44d6f081836947bb567f3d2ff56.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\MvpTest\MaterListView\unspecified\jars\libs\square-otto-1.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e30477de45b9cdaac312c7593158e6dcb9a41e5d">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\square-otto-1.3.2-672b6bb71fe3db5dd019b75d06bf437055ccffd3.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-4b537fbcd861f7cf3fb46c518575a2c015006bdb.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-6dc8578c5998e4fc6fe864ff59be246276b30431.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\MvpTest\MaterListView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9b46c23a5363f4d45d5f554a0445e0912964d619">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-9f3f2f0e4101fad0b433fc4fe6a6593c1e052d31.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-72bf76e171c8f313d80b3d5d4bd34935ccd8663b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0-8ad53718875d263efc9f5dad95fc3130e7736adc.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-9e14381fc2a3389f479684050f34aeda152ce336.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-cf15b9aa9ac47b4670f02837c6662064b5527263.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-56e01d3a175e7b831ff3c21775b9c2759cd18668.jar" />
+    </item>
+    <item
+        jar="G:\workSpace\MvpTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\classes-28a60129bbe097d0bdf1bf922a68171c69a6fb9c.jar" />
+    </item>
+    <item
+        jar="G:\Android Studio\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="G:\workSpace\MvpTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-1d7b6833f2259dba66e058bc47bee78f84f21112.jar" />
+    </item>
+
+</items>
